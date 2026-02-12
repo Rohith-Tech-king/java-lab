@@ -30,4 +30,5 @@ public class Enter2Float
          System.out.println("Please enter valid float numbers.");
        }
     }
+
 }
